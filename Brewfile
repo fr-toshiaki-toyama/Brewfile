@@ -72,6 +72,7 @@ brew nkf
 brew nvm
 brew openssl
 brew openvpn
+brew p7zip
 brew packer
 brew parallel
 brew pbzip2
