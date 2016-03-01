@@ -87,6 +87,7 @@ brew pyenv-virtualenv
 brew rbenv
 brew readline
 brew reattach-to-user-namespace
+brew rename
 brew rlwrap
 brew rpm2cpio
 brew sbt
