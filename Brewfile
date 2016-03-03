@@ -90,6 +90,7 @@ brew reattach-to-user-namespace
 brew rename
 brew rlwrap
 brew rpm2cpio
+brew ruby-build
 brew sbt
 brew scala
 brew source-highlight
